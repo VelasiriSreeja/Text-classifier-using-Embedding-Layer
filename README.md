@@ -134,7 +134,7 @@ def train_val_datasets(data,train_split=1780/2225):
 
 # Create the datasets
 train_dataset, validation_dataset = train_val_datasets(data)
-print('Name: M.Pranathi       Register Number: 212222240064     ')
+print('Name: sreeja       Register Number: 212222230169     ')
 print(f"There are {train_dataset.cardinality()} sentence-label pairs for training.\n")
 print(f"There are {validation_dataset.cardinality()} sentence-label pairs for validation.\n")
 ```
@@ -358,8 +358,8 @@ def plot_graphs(history, metric):
 plot_graphs(history, "accuracy")
 plot_graphs(history, "loss")
 ```
-Name: M.Pranathi
-Register Number: 212222240064
+Name: sreeja
+Register Number: 212222230169
 
 ## OUTPUT
 ### Loss, Accuracy Vs Iteration Plot
